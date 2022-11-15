@@ -1,0 +1,10 @@
+form {
+    background-image: linear-gradient(to bottom left, rgb(126, 166, 203), rgb(68, 27, 139));
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 0px rgb(0, 0, 0);
+}
+
+form input:not(.form-check-input) {
+    width: 90% !important;
+}
